@@ -16,7 +16,11 @@ h1 {
     align-items: center;
     color: white;
 }
-
+.choice {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
 .choices {
     display: flex;
     justify-content: center;
